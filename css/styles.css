@@ -1,4 +1,6 @@
 /* Author:Unnimaya */
 h2{
     color: red;
+    border :1px solid blue;
+    padding: 20px;
 }
