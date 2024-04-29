@@ -1,4 +1,12 @@
 /* Author:Unnimaya */
-h2{
-    color: red;
+.bg-primary{
+    background-color: blue;
+}
+.myDiv{
+    border:1px solid red;
+    
+}
+.myDiv>p{
+    padding:20px;
+    border:1px solid blue;
 }
